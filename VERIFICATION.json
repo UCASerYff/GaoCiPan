@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-18",
+  "version": "1.00",
+  "build": 1,
+  "bundleID": "com.gaoseries.GaoCiPan",
+  "installedPath": "/Applications/搞磁盘.app",
+  "installedVerified": true,
+  "firstInstall": true,
+  "signing": "Apple Development",
+  "teamID": "5G96498KGJ",
+  "notarized": false,
+  "codeDirectoryHash": "4f510d06c7509645491fb5840aba4b64f9a2df25",
+  "package": "GaoCiPan-1.00-macOS-arm64.zip",
+  "packageSHA256": "4d4a623bdc3946c1b8a4ee161fa014f61a6645d7e8146bf962e243914c6fcc7e",
+  "target": "arm64-apple-macos14.0",
+  "host": "macOS 27.0.1 (26A434), arm64; Xcode 27.0; Swift 6.4",
+  "verification": {
+    "coreAssertionsPassed": 104,
+    "reportExportCasesPassed": 16,
+    "installerCasesPassed": 16,
+    "swift6WarningsAsErrorsTypecheck": true,
+    "installedSignatureAndFiles": true,
+    "exactBundleRegistrationCount": 1,
+    "smokeTestRun": false,
+    "guiVerified": false,
+    "physicalNTFSDevicesUsed": false
+  },
+  "data": "No previous app or known private state found; no business database created or migrated; private installation receipts retained outside release",
+  "capabilities": {
+    "ordinaryImageReadOnly": true,
+    "completeDirectoryInventory": false,
+    "realDeviceAccess": false,
+    "write": false,
+    "mount": false,
+    "repair": false,
+    "format": false
+  }
+}

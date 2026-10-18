@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "source": "原创合成字节，仅用于有界只读解析隔离测试；不构成完整 Windows 格式化卷，不可挂载。",
+  "generator": "Tests/NTFSCoreTests.swift:SyntheticNTFS.make()",
+  "samples": [
+    {
+      "name": "original-synthetic.img",
+      "byteCount": 65536,
+      "sha256": "557b279bc9afa49cd0e266f233396bd6a338dd54eb3e398b92423c9d5d55e276"
+    }
+  ],
+  "persistence": "样本与变异样本由 Scripts/test-core.sh 在隔离临时目录生成；完成后删除。未包含个人文件或第三方卷镜像。"
+}
